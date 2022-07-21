@@ -1,0 +1,22 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "This is a simple planet project where we parse a CSV file using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaksham08/Planets-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaksham08/Planets-Project/issues"
+  },
+  "homepage": "https://github.com/shaksham08/Planets-Project#readme",
+  "dependencies": {
+    "papaparse": "^5.3.2"
+  }
+}
